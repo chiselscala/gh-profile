@@ -9,6 +9,9 @@ Work with multiple GitHub accounts using the [gh cli](https://cli.github.com/).
 
 ```shell
 gh extension install gabe565/gh-profile
+gh extension install chiselscala/gh-profile
+https://github.com/chiselscala/gh-profile.git
+
 ```
 
 ## Usage
